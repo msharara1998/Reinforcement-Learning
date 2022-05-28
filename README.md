@@ -12,3 +12,6 @@ the action values are sampled according to sample-average method.
 
 The implementation is an improvement on SahanaRamnath implementation (link below), offering more
 vectorization and explanation.
+
+SahanaRamnath implementation:
+https://github.com/SahanaRamnath/MultiArmedBandit_RL/blob/master/Epsilon_Greedy_Method/eps-greedy.py
