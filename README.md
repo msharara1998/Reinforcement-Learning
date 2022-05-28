@@ -9,3 +9,6 @@ is applied, a selected action `a` will result in a reward sampled from a normal 
 is applied over 1000 time steps each. The results are averaged over these bandits to obtain a measure
 of the learning algorithm's average behavior. The applied learning algorithm is ε-greedy and
 the action values are sampled according to sample-average method.
+
+The implementation is an improvement on SahanaRamnath implementation (link below), offering more
+vectorization and explanation.
